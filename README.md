@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @warsanabdi
+- 👋 Hi, I’m @warsan
 - 👀 I’m interested in ... development
 - 🌱 I’m currently learning ... anything code related
 - 💞️ I’m looking to collaborate on ... projects
